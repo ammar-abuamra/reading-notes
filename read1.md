@@ -1,5 +1,5 @@
 
- # So i leanred to 
+## So i leanred to 
  * do the ACD cycle 
  * using emoji
  * use the syantex style 
