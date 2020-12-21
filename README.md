@@ -14,3 +14,6 @@
 #### a car guy with a diploma degree in vehicles mechanical engineering
 ### start learning coding 2 month ago in app development and here im with you now
 ### her is my githup linke https://ammar-abuamra.github.io/reading-notes/
+
+
+[photo](https://engineersnetwork.org/wp-content/uploads/2019/02/Work-for-graduates-in-mechanical-engineering.jpg)
