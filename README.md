@@ -10,10 +10,10 @@
 
 
 ### i shoucld  introduce my self first but it's what it's
-### so peace upon all of you i'm **_ AMMAR ABUAMRA _** 
+### so peace upon all of you i'm ** *AMMAR ABUAMRA* ** 
 #### a car guy with a diploma degree in vehicles mechanical engineering
 ### start learning coding 2 month ago in app development and here im with you now
-### her is my githup linke https://ammar-abuamra.github.io/reading-notes/
+### her is my githup linke [link git]( https://ammar-abuamra.github.io/reading-notes/)
 
 
 [photo](https://engineersnetwork.org/wp-content/uploads/2019/02/Work-for-graduates-in-mechanical-engineering.jpg)
