@@ -15,5 +15,7 @@
 #### start learning coding 2 month ago in app development and here im with you now
 ### her is my githup linke [link git]( https://ammar-abuamra.github.io/reading-notes/)
 
+## And if you wuold love to vist my other page you can press here [nextpage](https://ammar-abuamra.github.io/reading-notes/read1)
 
-[photo](https://engineersnetwork.org/wp-content/uploads/2019/02/Work-for-graduates-in-mechanical-engineering.jpg)
+
+<img>[photo](https://engineersnetwork.org/wp-content/uploads/2019/02/Work-for-graduates-in-mechanical-engineering.jpg)<>
