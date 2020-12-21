@@ -1,5 +1,7 @@
 # *Growth Mindset in my way*
-# Peace upon you <3 
+# Peace upon you :purple_heart: 
+
+
 ## your littile brother  ***AMMAR ABUAMRA***  
  ## a car guy with a diploma degree in vehicles mechanical engineering :truck:
  ## and i haved start learning coding 2 month ago in app developmentdart in flutter  and here im with you now
